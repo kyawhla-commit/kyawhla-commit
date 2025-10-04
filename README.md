@@ -1,50 +1,17 @@
 # 👋 Hi, I’m Khun Tu Pi  
 
-**Full-stack Developer | React · React Native · Laravel · Node.js**  
-I specialize in building modern, scalable, and user-focused applications with clean, maintainable code across both web and mobile platforms.  
+💻 **Full-stack Developer** | React · React Native · Laravel · Node.js  
+🚀 Passionate about building scalable web & mobile applications with clean, maintainable code.  
 
 ---
 
-## 🧑‍💻 About Me  
+## 🛠️ Tech Stack  
 
-I’m **Khun Tu Pi**, a dedicated **Full-stack Developer** with a strong background in designing and implementing end-to-end solutions. My work bridges the gap between frontend and backend development, ensuring smooth functionality, scalability, and excellent user experiences.  
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
 
-I’m passionate about learning, problem-solving, and contributing to projects that make a real-world impact.  
+**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)  
 
----
-
-## 🔧 Core Skills  
-
-- **Frontend Development:** React, React Native, TypeScript, Tailwind CSS  
-- **Backend Development:** Node.js, Express.js, Laravel (PHP)  
-- **Databases & Tools:** MySQL, Git, GitHub, REST APIs, Authentication & Security  
-- **Mobile Development:** Cross-platform mobile apps with React Native  
-
----
-
-## 💼 Professional Focus  
-
-- Developing **responsive, mobile-first web interfaces**  
-- Building **robust, scalable APIs and backend systems**  
-- Applying **best practices** in software architecture and clean coding  
-- Delivering **cross-platform solutions** that combine performance and usability  
-
----
-
-## 🎯 Opportunities I’m Seeking  
-
-I’m currently open to:  
-- **Full-time or contract roles** as a Full-stack Developer  
-- **Freelance projects** in web or mobile development  
-- **Collaborations** on open-source or innovative technology initiatives  
-
----
-
-## 🌱 Growth & Learning  
-
-- Advancing expertise in **TypeScript** and modern **React architecture**  
-- Optimizing **React Native** for performance and scalability  
-- Designing and deploying **scalable APIs** with Laravel and Express.js  
+**Tools & DB:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
 
 ---
 
@@ -52,18 +19,14 @@ I’m currently open to:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawhla-commit&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyawhla-commit&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=kyawhla-commit&theme=radical)  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Connect With Me  
 
-I value collaboration, continuous learning, and building technology that creates real impact.  
-If you’re looking for a developer with a strong full-stack foundation and a drive for growth, I’d be glad to connect.  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](#)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](#)  
 
 ---
 
-✨ *Driven by curiosity. Focused on building. Committed to growth.*  
+✨ *Always building. Always learning. Always improving.*  
