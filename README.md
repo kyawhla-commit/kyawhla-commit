@@ -1,7 +1,7 @@
 <!-- Banner (upload your banner as banner.png in repo and uncomment below) -->
 ![Banner](https://github.com/kyawhla-commit/kyawhla-commit/blob/main/YouTube%20Banner%20-%20Khun%20Tu%20Pi%20Full-stack%20Developer.png)
 
-# 👋 Hi, I’m **Khun Tu Pi**  
+# 👋 Hi, I’m **Khun kyaw Hla**  
 
 💻 Full-stack Developer | React · React Native · Laravel · Node.js  
 🚀 Focused on building scalable, high-quality web & mobile applications.
@@ -45,8 +45,8 @@
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3ByV1FSj0RQBKLwy4RtKkaxA%3D%3D))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://kyawhla-commit.github.io/khTech-portfolio/)  
 
 ---
 
