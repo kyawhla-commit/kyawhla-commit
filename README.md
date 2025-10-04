@@ -1,10 +1,12 @@
 <!-- Banner (upload your banner as banner.png in repo and uncomment below) -->
-[https://github.com/kyawhla-commit/kyawhla-commit/blob/main/banner.png](https://github.com/kyawhla-commit/kyawhla-commit/blob/main/YouTube%20Banner%20-%20Khun%20Tu%20Pi%20Full-stack%20Developer.png)
+![Banner](https://github.com/kyawhla-commit/kyawhla-commit/blob/main/YouTube%20Banner%20-%20Khun%20Tu%20Pi%20Full-stack%20Developer.png)
 
 # 👋 Hi, I’m **Khun Tu Pi**  
 
-💻 **Full-stack Developer** | React · React Native · Laravel · Node.js  
-🚀 Building **scalable web & mobile apps** with clean, maintainable code.  
+💻 Full-stack Developer | React · React Native · Laravel · Node.js  
+🚀 Focused on building scalable, high-quality web & mobile applications.
+
+
 
 ---
 
@@ -36,6 +38,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kyawhla-commit&theme=radical" height="150" />
+</p>
+
 
 ## 🤝 Connect With Me  
 
