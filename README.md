@@ -1,5 +1,5 @@
 <!-- Banner (upload your banner as banner.png in repo and uncomment below) -->
-<!-- ![Banner](https://github.com/kyawhla-commit/kyawhla-commit/blob/main/banner.png) -->
+[Banner]([https://github.com/kyawhla-commit/kyawhla-commit/blob/main/banner.png](https://github.com/kyawhla-commit/kyawhla-commit/blob/main/YouTube%20Banner%20-%20Khun%20Tu%20Pi%20Full-stack%20Developer.png))
 
 # 👋 Hi, I’m **Khun Tu Pi**  
 
